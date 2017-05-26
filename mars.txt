@@ -1,1 +1,2 @@
-mars.txt insert text here
+"It is a cool and dry place,"
+The two moons may be a problem for Wolfman. 
